@@ -1,0 +1,23 @@
+.bi {
+    width: 50px !important;
+}
+
+.bi-twitter {
+    color: #00acee !important;
+}
+
+.bi-github {
+    color: black;
+}
+
+.bi-linkedin {
+    color: #0e76a8;
+}
+
+.bi-instagram {
+    color:  #e95950
+}
+
+.bi-facebook {
+    color: #3b5998
+}
