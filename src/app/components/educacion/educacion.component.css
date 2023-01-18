@@ -1,5 +1,5 @@
 div{
-    background-color: #a1b5cb;
+    background-color: #9cb4cf;
 }
 .titulo {
     padding-top: 20px;
@@ -33,4 +33,14 @@ p {
 
 .inline-element {
     display: inline-block;
+}
+
+.prueba {
+    width: 100%;
+    background-color: #a1b5cb;
+}
+
+.experiencia {
+    font-size: 20px;
+    font-weight: bold;
 }

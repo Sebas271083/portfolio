@@ -34,3 +34,13 @@ p {
 .inline-element {
     display: inline-block;
 }
+
+.prueba {
+    width: 100%;
+    background-color: #a1b5cb;
+}
+
+.experiencia {
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "frontendportfolio-10265"
+  },
+  "targets": {
+    "frontendportfolio-10265": {
+      "hosting": {
+        "Portfolio": [
+          "frontendportfolio-10265"
+        ]
+      }
+    }
+  }
+}

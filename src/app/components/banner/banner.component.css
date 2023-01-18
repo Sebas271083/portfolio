@@ -4,3 +4,8 @@ img {
 }
 
 
+@media (max-width: 600px) {
+    img {
+      height: 500%;
+    }
+  }

@@ -1,0 +1,21 @@
+/* Estilos para pantallas pequeñas */
+@media (max-width: 600px) {
+    .card {
+      width: 80%;
+    }
+  }
+  
+  /* Estilos para pantallas medianas */
+  @media (min-width: 600px) and (max-width: 900px) {
+    .card {
+      width: 60%;
+    }
+  }
+  
+  /* Estilos para pantallas grandes */
+  @media (min-width: 900px) {
+    .card {
+      width: 30%;
+    }
+  }
+  

@@ -8,7 +8,7 @@ import { Experiencia } from '../model/experiencia';
 })
 export class SExperienciaService {
 
-  expURL = 'http://localhost:8080/explab'
+  expURL = 'https://backendportfolio-production-4b99.up.railway.app/explab/'
 
   constructor(private httpClient: HttpClient) { }
 
@@ -25,7 +25,7 @@ export class SExperienciaService {
   }
 
   public update(id: number, experiencia: Experiencia): Observable<any>{
-    return this.httpClient.put<any>(this.expURL + `upadate/${id}`, experiencia);
+    return this.httpClient.put<any>(this.expURL + `update/${id}`, experiencia);
   }
 
   public delete(id: number): Observable<any>{

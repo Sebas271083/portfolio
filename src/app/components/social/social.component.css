@@ -21,3 +21,10 @@
 .bi-facebook {
     color: #3b5998
 }
+
+button {
+    margin: 10px;
+    margin-top: 20px;
+    padding: 4px;
+    border-radius: 10px;
+}

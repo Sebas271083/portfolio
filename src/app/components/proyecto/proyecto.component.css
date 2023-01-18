@@ -1,9 +1,15 @@
 .row{
     padding: 20px;
-    background-color: #c1cfdf;
+    background-color: #a1b5cb;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 40px;
 }
 
 .contenedor{
+    padding: 30px;
     width: auto;
 }
 
@@ -14,4 +20,5 @@
 
 .img-proyecto{
     box-shadow: 10px 10px 10px black;
+    max-height: 150px;
 }
